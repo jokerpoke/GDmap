@@ -1,0 +1,1 @@
+include ':app', ':AmapSmoothMarker-master', ':android-smooth-move-master', ':AMap3DDemo', ':android-path-record-master', ':android-smooth-move-master 2'
